@@ -1,7 +1,7 @@
 name: state_saver_package
 description: "A package that saves and restores the current state of a Flutter app."
-version: 0.0.1
-homepage:
+version: 1.0.0
+homepage: https://github.com/ahmet35yildiz/state_saver_flutter
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
