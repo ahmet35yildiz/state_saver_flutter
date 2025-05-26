@@ -13,7 +13,7 @@ Simple and effective solution for storing data in Flutter applications.
 
 ```yaml
 dependencies:
-  state_saver_package: ^1.0.0
+  state_saver_package: ^1.0.3
 ```
 
 ## Usage
